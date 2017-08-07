@@ -30,7 +30,7 @@ post = "/:year/:month/:day/:slug/"
     weight = 7
 [[menu.main]]
     name = "２F 婦人"
-    url  = "/personal-matter/"
+    url  = "/personalUpdate/"
     weight = 5
 [[menu.main]]
     name = "３F 紳士"
@@ -46,7 +46,7 @@ post = "/:year/:month/:day/:slug/"
     weight = 2
 [[menu.main]]
     name = "６F 屋上"
-    url  = "/random-idea/"
+    url  = "/randomIdea/"
     weight = 1
 
 # Social icons to be shown on the right-hand side of the navigation bar
