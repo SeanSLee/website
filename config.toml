@@ -9,7 +9,7 @@ post = "/:year/:month/:day/:slug/"
 
 [params]
     author = "Sean Lee"
-    description = "Welcome"
+    description = "ようこそ"
     githubUsername = "#"
     accent = "grey"
     showBorder = true
