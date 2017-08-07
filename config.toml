@@ -2,6 +2,7 @@ baseURL = "http://seanlee.netlify.com/"
 languageCode = "en-us"
 title = "Sean Lee"
 theme = "minimal"
+googleAnalytics = "UA-104195119-1"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage = true
 post = "/:year/:month/:day/:slug/"
