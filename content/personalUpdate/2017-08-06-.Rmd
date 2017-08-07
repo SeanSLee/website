@@ -2,7 +2,7 @@
 title: ショッピングモールを始めました
 author: Sean Lee
 date: '2017-08-06'
-slug: ショッピングモールを始めました
+slug: shopping-mall
 categories:
   - Personal update
 tags:
