@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://seanlee.netlify.com/"
 languageCode = "en-us"
 title = "Sean Lee"
 theme = "minimal"
@@ -8,7 +8,7 @@ post = "/:year/:month/:day/:slug/"
 
 [params]
     author = "Sean Lee"
-    description = "百貨店"
+    description = "Welcome"
     githubUsername = "#"
     accent = "grey"
     showBorder = true
