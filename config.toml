@@ -16,8 +16,8 @@ post = "/:year/:month/:day/:slug/"
     backgroundColor = "white"
     font = "Noto Sans" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightStyle = "github"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "r", "yaml"]
 
 [[menu.main]]
     url = "/"
