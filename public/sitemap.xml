@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>/random-idea/test/</loc>
+    <loc>/randomidea/test/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>/personal-matter/test2/</loc>
+    <loc>/personalupdate/test2/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -60,7 +60,7 @@
   </url>
   
   <url>
-    <loc>/personal-matter/</loc>
+    <loc>/personalupdate/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -90,7 +90,7 @@
   </url>
   
   <url>
-    <loc>/random-idea/</loc>
+    <loc>/randomidea/</loc>
     <lastmod>2017-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

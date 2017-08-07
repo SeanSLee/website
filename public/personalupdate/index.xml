@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PersonalUpdates on Sean Lee</title>
+    <link>/personalupdate/</link>
+    <description>Recent content in PersonalUpdates on Sean Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/personalupdate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test2</title>
+      <link>/personalupdate/test2/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/personalupdate/test2/</guid>
+      <description>quietly gets out of bed
+opens up rejected grant
+“statistics” -&amp;gt; “machine learning”
+“MCMC” -&amp;gt; “AI”
+saves
+slips back into bed
+(┐「ε:) — Sean Lee (@SeanSHLee) June 29, 2017   </description>
+    </item>
+    
+  </channel>
+</rss>

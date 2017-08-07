@@ -17,7 +17,7 @@
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/event/test/</guid>
-      <description></description>
+      <description>$$Sn = \sum{i=1}^n X_i$$</description>
     </item>
     
     <item>
@@ -40,10 +40,10 @@
     
     <item>
       <title>test</title>
-      <link>/random-idea/test/</link>
+      <link>/randomidea/test/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/random-idea/test/</guid>
+      <guid>/randomidea/test/</guid>
       <description></description>
     </item>
     
@@ -58,10 +58,10 @@
     
     <item>
       <title>test2</title>
-      <link>/personal-matter/test2/</link>
+      <link>/personalupdate/test2/</link>
       <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/personal-matter/test2/</guid>
+      <guid>/personalupdate/test2/</guid>
       <description>quietly gets out of bed
 opens up rejected grant
 “statistics” -&amp;gt; “machine learning”
