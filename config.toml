@@ -1,0 +1,73 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Sean Lee"
+theme = "minimal"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage = true
+post = "/:year/:month/:day/:slug/"
+
+[params]
+    author = "Sean Lee"
+    description = "百貨店"
+    githubUsername = "#"
+    accent = "grey"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Noto Sans" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "１F 入口"
+    weight = 6
+
+[[menu.main]]
+    name = "B１F 食品"
+    url  = "/food/"
+    weight = 7
+[[menu.main]]
+    name = "２F 婦人"
+    url  = "/personal-matter/"
+    weight = 5
+[[menu.main]]
+    name = "３F 紳士"
+    url  = "/project/"
+    weight = 4
+[[menu.main]]
+    name = "４F 子供"
+    url  = "/toy/"
+    weight = 3
+[[menu.main]]
+    name = "５F イベント"
+    url  = "/event/"
+    weight = 2
+[[menu.main]]
+    name = "６F 屋上"
+    url  = "/random-idea/"
+    weight = 1
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:seanlee@aoni.waseda.jp"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/SeanSHLee/"
+    name = "twitter"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.facebook.com/seanshlee/"
+    name = "facebook"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://scholar.google.co.jp/citations?user=_lhsFh8AAAAJ&hl=en"
+    name = "graduation-cap"
+    weight = 5
