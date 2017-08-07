@@ -6,24 +6,18 @@
     <description>Recent content in PersonalUpdates on Sean Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/personalupdate/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>test2</title>
-      <link>/personalupdate/test2/</link>
-      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      <title>ショッピングモールを始めました</title>
+      <link>/personalupdate/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%92%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/personalupdate/test2/</guid>
-      <description>quietly gets out of bed
-opens up rejected grant
-“statistics” -&amp;gt; “machine learning”
-“MCMC” -&amp;gt; “AI”
-saves
-slips back into bed
-(┐「ε:) — Sean Lee (@SeanSHLee) June 29, 2017   </description>
+      <guid>/personalupdate/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%92%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>突然、インターネット上に散らかっている、自分に関する情報を一箇所に集め、整理したくなった。 色々調べて見たら、ちょっと工夫するだけで、極めて自</description>
     </item>
     
   </channel>

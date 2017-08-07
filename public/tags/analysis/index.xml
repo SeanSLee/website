@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis on Sean Lee</title>
+    <link>/tags/analysis/</link>
+    <description>Recent content in Analysis on Sean Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New dinosaur phylogeny</title>
+      <link>/project/new-dinosaur-phylogeny/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/new-dinosaur-phylogeny/</guid>
+      <description>数ヶ月前に、恐竜の系統樹を大きく修正する必要があると主張する論文が発表された。 リンク：https://www.nature.com/natu</description>
+    </item>
+    
+  </channel>
+</rss>

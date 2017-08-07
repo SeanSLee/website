@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gardening on Sean Lee</title>
+    <link>/tags/gardening/</link>
+    <description>Recent content in Gardening on Sean Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gardening/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>パッションフルーツ</title>
+      <link>/food/passion-fruit/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/food/passion-fruit/</guid>
+      <description>今年も収穫が始まった。 #passionfruit #グリーンカーテン #베란다정원 A post shared by Sean Lee (@seanlee7) on Aug 5, 2017 at 9:18pm PDT 今年は少なめだが、肥料や水やりをこまめにしていたおかげか、</description>
+    </item>
+    
+  </channel>
+</rss>
