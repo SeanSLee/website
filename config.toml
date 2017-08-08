@@ -1,6 +1,6 @@
 baseURL = "http://seanlee.netlify.com/"
 languageCode = "en-us"
-title = "Sean Lee"
+title = "Welcome"
 theme = "minimal"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage = true
@@ -8,8 +8,8 @@ post = "/:year/:month/:day/:slug/"
 
 [params]
     author = "Sean Lee"
-    description = "ようこそ"
-    githubUsername = "#"
+    description = "Sean Lee"
+    githubUsername = "SeanSLee"
     accent = "grey"
     showBorder = true
     backgroundColor = "white"
