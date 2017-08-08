@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>Book</title>
+      <link>/tags/book/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>/tags/culture/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Food</title>
       <link>/tags/food/</link>
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
@@ -71,6 +89,15 @@
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>/tags/review/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/review/</guid>
       <description></description>
     </item>
     
