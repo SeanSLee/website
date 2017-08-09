@@ -33,7 +33,7 @@ post = "/:year/:month/:day/:slug/"
     weight = 5
 [[menu.main]]
     name = "３F 紳士"
-    url  = "/project/"
+    url  = "/scienceBackchat/"
     weight = 4
 [[menu.main]]
     name = "４F 子供"
