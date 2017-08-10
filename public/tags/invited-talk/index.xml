@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events on Welcome</title>
-    <link>/event/</link>
-    <description>Recent content in Events on Welcome</description>
+    <title>Invited Talk on Welcome</title>
+    <link>/tags/invited-talk/</link>
+    <description>Recent content in Invited Talk on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/invited-talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

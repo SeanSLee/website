@@ -1,5 +1,5 @@
 ---
-title: ショッピングモールを始めました
+title: 百貨店を始めました
 author: Sean Lee
 date: '2017-08-06'
 slug: shopping-mall
